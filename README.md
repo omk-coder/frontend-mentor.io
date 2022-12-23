@@ -1,6 +1,10 @@
 # Frontend Mentor - News homepage
 
+
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
+
+<br>
+<a href="https://omk-coder.github.io/frontend-mentor.io/">The Solution To This Challenge is Live Now</a>
 
 ## Welcome! 👋
 
